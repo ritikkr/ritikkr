@@ -4,9 +4,7 @@
 
 Hello there, My name is Ritik :eyeglasses: . I'm tireless seeker of knowledge.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)
 
 ## :mailbox: Get in touch
 *  :point_right:  <a href="https://www.linkedin.com/in/ritikkr">linkedin </a>  - my professional profile
