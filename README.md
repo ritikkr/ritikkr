@@ -1,8 +1,9 @@
 ### Hi, I'm Ritik :technologist:
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
+##screenshot
 
-<img src="dv.jpg" alt="Profile" style="float:right; widht:10px;height:10px;border-radius:50px;">
+<img src="dv.jpg" alt="Profile" style="float:right;border-radius:50px;" width:10px height:10px;/>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true)
