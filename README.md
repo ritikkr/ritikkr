@@ -1,8 +1,12 @@
-### Hi, I'm Ritik :technologist:
+### Hello, Everyone :technologist:
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
+
 ![alt text](https://github.com/ritikkr/ritikkr/blob/master/ritik.png)
+
+
+## About
 
 My Name is Ritik,I'm tireless seeker of knowledge.
 
