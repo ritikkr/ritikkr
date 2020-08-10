@@ -8,7 +8,7 @@
 
 ## About
 
-My Name is Ritik,I'm tireless seeker of knowledge.
+My Name is Ritik :eyeglasses: ,I'm tireless seeker of knowledge.
 
 ### Quick Review
 
