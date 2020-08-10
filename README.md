@@ -2,6 +2,7 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
+<img src="ritik.png" height="200">
 
 My Name is Ritik,I'm tireless seeker of knowledge.
 
