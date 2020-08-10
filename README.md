@@ -2,6 +2,8 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
+<img src="images/bg.png" height="200">
+
 # About
 I'm tireless seeker of knowledge.
 
