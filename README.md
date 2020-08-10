@@ -1,5 +1,5 @@
 ### Hi, I'm Ritik 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight)
 ![counter](https://[YourEndpoint].m.pipedream.net)
 
 <!--
