@@ -2,6 +2,8 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
+![alt text](https://github.com/ritikkr/dv.png "Logo Title Text 1")
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
