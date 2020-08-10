@@ -5,6 +5,7 @@
 <img src="ritik.png" height="200">
 
 # About
+<img src="ritik.png" height="200">
 I'm tireless seeker of knowledge.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact&theme=tokyonight)
