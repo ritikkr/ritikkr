@@ -1,6 +1,8 @@
-### Hi, I'm Ritik 👋
+### Hi, I'm Ritik :bearded_person:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight)
+
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
+
 
 <!--
 **ritikkr/ritikkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
