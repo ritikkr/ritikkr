@@ -1,6 +1,7 @@
 ### Hi, I'm Ritik 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr)
 ![counter](https://[YourEndpoint].m.pipedream.net)
+
 <!--
 **ritikkr/ritikkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
