@@ -2,12 +2,12 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
-![alt text](https://github.com/ritikkr/dv.png "Logo Title Text 1")
+<img src="dv.jpg" alt="Profile" style="float:right; widht:10px;height:10px;border-radius:50px;">
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)]
 
 <!--
 **ritikkr/ritikkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
