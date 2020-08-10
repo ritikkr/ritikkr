@@ -2,7 +2,10 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
-<img src="dvi.png" alt="Profile" style="float:right;border-radius:50px;" width:"10">
+<p>
+  <p align="right">Hey, My Name is Ritik</p>
+  <img src="dvi.png" width="150" height="100" title="hover text" align="right">
+</p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true)
