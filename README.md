@@ -2,16 +2,16 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
-Hello there, My name is Ritik
+Hello there, My name is Ritik :eyeglasses: . I'm tireless seeker of knowledge.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)
 
 ## :mailbox: Get in touch
-*  :link:  <a href="https://www.linkedin.com/in/ritikkr">linkedin</a>
-*  :link:  <a href="https://twitter.com/RitikKu80158232">Twitter</a>
-*  :link:  <a href="https://www.instagram.com/ritik_kr24/" >Instagram</a>
+*  :point_right:  <a href="https://www.linkedin.com/in/ritikkr">linkedin </a>  - my professional profile
+*  :point_right:  <a href="https://twitter.com/RitikKu80158232">Twitter</a>
+*  :point_right:  <a href="https://www.instagram.com/ritik_kr24/" >Instagram</a>
 *  :octocat:  <a href="https://github.com/ritikkr">GitHub</a>
 
 <!--
