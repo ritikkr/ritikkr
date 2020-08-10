@@ -1,7 +1,10 @@
 ### Hi, I'm Ritik :technologist:
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight)
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
