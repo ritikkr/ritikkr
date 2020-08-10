@@ -1,4 +1,4 @@
-### Hi, I'm Ritik :bearded_person:
+### Hi, I'm Ritik :technologist:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkr&theme=tokyonight)
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
