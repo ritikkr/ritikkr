@@ -2,9 +2,9 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
-<p>
-  <p align="right">Hey, My Name is Ritik</p>
-  <img src="dvi.png" width="150" height="100" title="hover text" align="right">
+<p align="centre">
+  <p align="left">Hey, My Name is Ritik</p>
+  <img src="dvi.png" height="100" title="hover text" align="right">
 </p>
 
 
