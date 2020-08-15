@@ -2,13 +2,17 @@
 
 ![counter](https://enlsjw20z0t8r8d.m.pipedream.net)
 
-
+<!--
 ![alt text](https://github.com/ritikkr/ritikkr/blob/master/ritik.png)
 
+-->
 
 ## About
 
 My Name is Ritik :eyeglasses: ,I'm tireless seeker of knowledge.
+- 🔭 I’m currently working on Backend 
+- 🌱 I’m currently learning Django Framework
+- 💬 Ask me about Python
 
 ### Quick Review
 
