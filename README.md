@@ -10,8 +10,8 @@
 ## About
 
 My Name is Ritik :eyeglasses: ,I'm tireless seeker of knowledge.
-- 🔭 I’m currently working on Backend 
-- 🌱 I’m currently learning Django Framework
+- 🔭 I’m currently working on Image Processing
+- 🌱 I’m currently learning OpenCV
 - 💬 Ask me about Python
 
 ### Quick Review
