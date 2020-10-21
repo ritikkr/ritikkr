@@ -21,7 +21,6 @@ My Name is Ritik :eyeglasses: ,I'm tireless seeker of knowledge.
 ## :mailbox: Get in touch
 *  :point_right:  <a href="https://www.linkedin.com/in/ritikkr">linkedin </a>  - my professional profile
 *  :point_right:  <a href="https://twitter.com/RitikKu80158232">Twitter</a>    
-*  :point_right:  <a href="https://www.instagram.com/ritik_kr24/" >Instagram</a>
 *  :point_right:  <a href="https://stackoverflow.com/users/10554702/ritik-kumar/" >StackOverflow</a>
 *  :octocat:  <a href="https://github.com/ritikkr">GitHub</a>
 
