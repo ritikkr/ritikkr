@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikkr&label=Profile%20views&color=0e75b6&style=flat" alt="ritikkr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikkr" alt="ritikkr" /></a> </p>
-
 - 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://ritikkr.github.io/](https://ritikkr.github.io/)
