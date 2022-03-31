@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ritikkr.github.io/](https://ritikkr.github.io/)
 
-- 💬 Ask me about **Python, react, node js, mongo db**
+- 💬 Ask me about **Python, react, node js, mongo db** Adding More 🚀
 
 - 📫 How to reach me **ritikkumar2405199@gmail.com**
 
